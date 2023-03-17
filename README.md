@@ -1,2 +1,2 @@
 # landing-page
-Landing page example
+The Lamborghini Aventador fan page
